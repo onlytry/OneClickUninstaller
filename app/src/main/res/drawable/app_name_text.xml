@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="50dp"
+    android:viewportWidth="200"
+    android:viewportHeight="50">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,25 L190,25"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,35 Q100,15 180,35"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,30 L190,30 M10,40 Q100,20 190,40"
+        android:strokeWidth="1"
+        android:strokeColor="#FFFFFF"/>
+    <!-- 使用路径来绘制文本 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,25 L30,25 L30,35 L20,35 Z M35,25 L45,25 L45,35 L35,35 Z M50,25 L60,25 L60,35 L50,35 Z M65,25 L75,25 L75,35 L65,35 Z M80,25 L90,25 L90,35 L80,35 Z M95,25 L105,25 L105,35 L95,35 Z M110,25 L120,25 L120,35 L110,35 Z M125,25 L135,25 L135,35 L125,35 Z M140,25 L150,25 L150,35 L140,35 Z M155,25 L165,25 L165,35 L155,35 Z"/>
+</vector>

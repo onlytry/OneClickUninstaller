@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort_name_asc"
+        android:title="按名称升序" />
+    <item
+        android:id="@+id/sort_name_desc"
+        android:title="按名称降序" />
+    <item
+        android:id="@+id/sort_time_asc"
+        android:title="按安装时间升序" />
+    <item
+        android:id="@+id/sort_time_desc"
+        android:title="按安装时间降序" />
+</menu>

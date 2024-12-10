@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">一键批量卸载应用</string>
+    <string name="show_system_apps">显示系统应用</string>
+    <string name="hide_system_apps">隐藏系统应用</string>
+    <string name="sort_alphabetically">按名称排序</string>
+    <string name="sort_by_install_time">按安装时间排序</string>
+    <string name="sort_name_asc">按名称升序</string>
+    <string name="sort_name_desc">按名称降序</string>
+    <string name="sort_time_asc">按安装时间升序</string>
+    <string name="sort_time_desc">按安装时间降序</string>
+</resources>
